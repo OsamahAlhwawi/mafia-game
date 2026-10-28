@@ -1,0 +1,15 @@
+{
+  "type": "rooms",
+  "rooms": [
+    {
+      "code": "123456",
+      "name": "غرفة",
+      "hostName": "لاعب0",
+      "hostAvatar": "m1",
+      "count": 5,
+      "capacity": 9,
+      "status": "open",
+      "round": 0
+    }
+  ]
+}

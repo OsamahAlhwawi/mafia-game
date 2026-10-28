@@ -1,0 +1,5 @@
+{
+  "type": "error",
+  "code": "roomNotFound",
+  "message": "ما لقينا غرفة بهذا الكود."
+}

@@ -1,0 +1,13 @@
+{
+  "type": "welcome",
+  "playerId": "p0",
+  "token": "secret-token",
+  "debugEnabled": true,
+  "maintenance": false,
+  "stats": {
+    "games": 12,
+    "wins": 7,
+    "mafiaGames": 3,
+    "mafiaWins": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "chatHistory",
+  "messages": [
+    {
+      "id": "6f3e1960-3101-4a65-ae59-4188f9683733",
+      "channel": "day",
+      "senderId": "p0",
+      "senderName": "لاعب0",
+      "text": "الليلة طويلة",
+      "sentAt": 1792958410000
+    }
+  ]
+}

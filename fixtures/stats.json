@@ -1,0 +1,9 @@
+{
+  "type": "stats",
+  "stats": {
+    "games": 13,
+    "wins": 8,
+    "mafiaGames": 3,
+    "mafiaWins": 2
+  }
+}
